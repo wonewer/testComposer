@@ -1,0 +1,5 @@
+{
+    "require": {
+        "wonewer/logger-for-sf": "^0.4.0"
+    }
+}

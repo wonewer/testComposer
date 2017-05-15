@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "aeb352d2ddd0a7e39c70d99ab9441ea8",
+    "content-hash": "ba3c0359a5b88e5235b82f16cae13b47",
+    "packages": [
+        {
+            "name": "wonewer/logger-for-sf",
+            "version": "0.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/wonewer/loggerForSF.git",
+                "reference": "2b9d9f208b2d798f919838c4546ef0f173c2fe28"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/wonewer/loggerForSF/zipball/2b9d9f208b2d798f919838c4546ef0f173c2fe28",
+                "reference": "2b9d9f208b2d798f919838c4546ef0f173c2fe28",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "sf\\logger\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "yuanliangchen",
+                    "email": "yuanliangchen@dotfashion.cn"
+                }
+            ],
+            "description": "logger for shein framework",
+            "time": "2017-05-15 09:34:38"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
